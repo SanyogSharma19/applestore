@@ -1,0 +1,18 @@
+/* Header.css */
+
+/* ... Your existing styles ... */
+
+.combined-search-bar {
+  display: flex;
+  align-items: center;
+}
+
+.form-control {
+  border-radius: 20px; /* Rounded corners for the search box */
+  margin-right: 5px; /* Add a small margin to the right of the input */
+}
+
+.btn-outline-light {
+  border-radius: 20px; /* Rounded corners for the button */
+  margin-left: 0; /* Remove the margin to the left of the button */
+}

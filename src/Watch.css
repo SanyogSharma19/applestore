@@ -1,0 +1,14 @@
+.Watch-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Adjust as needed */
+    align-items: center; /* Align items vertically in the center */
+    margin: 20px; /* Add margin as needed */
+  }
+  
+  /* Style for each iPhone product card specific to IPhone component */
+  .Watch-card {
+    margin: 10px; /* Adjust margin as needed */
+  }
+  
+  /* Additional styling if needed */
